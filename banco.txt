@@ -16,3 +16,6 @@ Endereço: Aguas Lindas-GO
 Nome: Nair
 Endereço: Etapa B
 ======================
+Nome: Carlos Eduardo
+Endereço: Qd.56 Cs.32 Et.B
+======================
