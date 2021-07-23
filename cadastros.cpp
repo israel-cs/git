@@ -86,9 +86,10 @@ int main() {
                 cout << "Obrigado pelo uso! Fim do programa! " << "\n"; 
             }
             else if (x<1 || x>5) {
-                cout << "Favor digitar as opções de 1 a 3";
+                cout << "Favor digitar as opções de 1 a 3" << "\n";
                 system("Pause");
             }        
     } while (x!=5);   
     return 0;
 }
+//apenas comentário
